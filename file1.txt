@@ -2,3 +2,6 @@ bhuvan
 rahul
 gopii
 mahesh
+devops
+aiml
+arjun
